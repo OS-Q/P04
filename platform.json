@@ -1,7 +1,7 @@
 {
   "name": "P151",
   "title": "OS-Q WCH 8051",
-  "description": "WCH 8051 CH5XX系列单片机开发平台",
+  "description": "8051 core && USB device.",
   "homepage": "http://special.wch.cn/zh_cn/mcu/",
   "engines": {
     "platformio": "^5"
